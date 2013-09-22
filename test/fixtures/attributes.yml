@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  str: 1
+  agi: 1
+  mnd: 1
+  vit: 1
+  character_id: 1
+
+two:
+  str: 1
+  agi: 1
+  mnd: 1
+  vit: 1
+  character_id: 1
